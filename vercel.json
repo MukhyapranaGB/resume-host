@@ -1,0 +1,10 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/Mukhyaprana_Resume.pdf",
+      "destination": "/public/Mukhyaprana_Resume.pdf"
+    }
+  ]
+}
+
